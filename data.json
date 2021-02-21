@@ -1,0 +1,62 @@
+[{
+    "year": 2020,
+    "title": "Title 1",
+    "info": {
+        "Genre": ["Action", "Comedy"],
+        "Info": "An action comedy movie"
+    }
+}, {
+    "year": 2020,
+    "title": "Title 2",
+    "info": {
+        "Info": "An action comedy movie",
+        "Producer": "Kevin Feige"
+    }
+}, {
+    "year": 2019,
+    "title": "Title 1",
+    "info": {}
+}, {
+    "year": 2019,
+    "title": "Title 2",
+    "info": {
+        "Info": "A comedy movie",
+        "Genre": ["Comedy"],
+        "Producer": "ABC"
+    }
+},
+{
+    "year": 2019,
+    "title": "Title 3",
+    "info": {
+        "Info": "An action comedy movie",
+        "Producer": "Kevin Feige",
+        "Genre": ["Action", "Comedy"]
+    }
+}, {
+    "year": 2020,
+    "title": "Movie 1",
+    "info": {
+        "Info": "A comedy movie",
+        "Genre": ["Comedy"],
+        "Producer": "ABC"
+    }
+}, 
+{
+    "year": 2020,
+    "title": "Movie 2",
+    "info": {
+        "Info": "A comedy movie",
+        "Genre": ["Comedy"],
+        "Producer": "ABC"
+    }
+}, {
+    "year": 2019,
+    "title": "Movie 1",
+    "info": {
+        "Info": "A comedy movie",
+        "Genre": ["Comedy"],
+        "Producer": "ABC"
+    }
+}
+]
